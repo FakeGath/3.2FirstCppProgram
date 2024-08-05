@@ -10,6 +10,8 @@ int main(){
     {
         std :: cout << "My name is Ivan" << std :: endl;
     }
+
+    std :: cout << " after modification "<< std :: endl;
     
     return 0;
 
